@@ -2,7 +2,7 @@
 ## How to install:
 Clone a repository:  
 ```
-https://github.com/OvDima1/XBlock.git
+https://github.com/OvDima1/XBlockTest.git
 ```
 Create and activate a virtual environment:  
 ```
